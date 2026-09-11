@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0946-validate-stack-sequences](https://github.com/Dishika-16/DSA/tree/master/0946-validate-stack-sequences) |
 | [2390-removing-stars-from-a-string](https://github.com/Dishika-16/DSA/tree/master/2390-removing-stars-from-a-string) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Dishika-16/DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,9 +33,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0917-reverse-only-letters](https://github.com/Dishika-16/DSA/tree/master/0917-reverse-only-letters) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Dishika-16/DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## String
 |  |
 | ------- |
 | [0917-reverse-only-letters](https://github.com/Dishika-16/DSA/tree/master/0917-reverse-only-letters) |
 | [2390-removing-stars-from-a-string](https://github.com/Dishika-16/DSA/tree/master/2390-removing-stars-from-a-string) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Dishika-16/DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 <!---LeetCode Topics End-->
