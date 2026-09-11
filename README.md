@@ -26,4 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Dishika-16/DSA/tree/master/3483-unique-3-digit-even-numbers) |
+## Two Pointers
+|  |
+| ------- |
+| [0917-reverse-only-letters](https://github.com/Dishika-16/DSA/tree/master/0917-reverse-only-letters) |
+## String
+|  |
+| ------- |
+| [0917-reverse-only-letters](https://github.com/Dishika-16/DSA/tree/master/0917-reverse-only-letters) |
 <!---LeetCode Topics End-->
