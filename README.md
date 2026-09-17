@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Dishika-16/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0503-next-greater-element-ii](https://github.com/Dishika-16/DSA/tree/master/0503-next-greater-element-ii) |
 | [0946-validate-stack-sequences](https://github.com/Dishika-16/DSA/tree/master/0946-validate-stack-sequences) |
+| [1021-remove-outermost-parentheses](https://github.com/Dishika-16/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1544-make-the-string-great](https://github.com/Dishika-16/DSA/tree/master/1544-make-the-string-great) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Dishika-16/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2390-removing-stars-from-a-string](https://github.com/Dishika-16/DSA/tree/master/2390-removing-stars-from-a-string) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0917-reverse-only-letters](https://github.com/Dishika-16/DSA/tree/master/0917-reverse-only-letters) |
+| [1021-remove-outermost-parentheses](https://github.com/Dishika-16/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1544-make-the-string-great](https://github.com/Dishika-16/DSA/tree/master/1544-make-the-string-great) |
 | [2390-removing-stars-from-a-string](https://github.com/Dishika-16/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Dishika-16/DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
@@ -71,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/Dishika-16/DSA/tree/master/0622-design-circular-queue) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Dishika-16/DSA/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
