@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/Dishika-16/DSA/tree/master/0649-dota2-senate) |
 | [0917-reverse-only-letters](https://github.com/Dishika-16/DSA/tree/master/0917-reverse-only-letters) |
 | [1021-remove-outermost-parentheses](https://github.com/Dishika-16/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1544-make-the-string-great](https://github.com/Dishika-16/DSA/tree/master/1544-make-the-string-great) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Dishika-16/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Dishika-16/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/Dishika-16/DSA/tree/master/0622-design-circular-queue) |
+| [0649-dota2-senate](https://github.com/Dishika-16/DSA/tree/master/0649-dota2-senate) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Dishika-16/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Monotonic Stack
 |  |
@@ -77,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Dishika-16/DSA/tree/master/1021-remove-outermost-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/Dishika-16/DSA/tree/master/0649-dota2-senate) |
 <!---LeetCode Topics End-->
