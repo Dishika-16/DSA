@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0260-single-number-iii](https://github.com/Dishika-16/DSA/tree/master/0260-single-number-iii) |
 | [0503-next-greater-element-ii](https://github.com/Dishika-16/DSA/tree/master/0503-next-greater-element-ii) |
 | [0622-design-circular-queue](https://github.com/Dishika-16/DSA/tree/master/0622-design-circular-queue) |
 | [0946-validate-stack-sequences](https://github.com/Dishika-16/DSA/tree/master/0946-validate-stack-sequences) |
@@ -92,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Dishika-16/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0260-single-number-iii](https://github.com/Dishika-16/DSA/tree/master/0260-single-number-iii) |
 <!---LeetCode Topics End-->
