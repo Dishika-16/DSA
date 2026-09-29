@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Dishika-16/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0622-design-circular-queue](https://github.com/Dishika-16/DSA/tree/master/0622-design-circular-queue) |
 ## Bracket Sequences
 |  |
