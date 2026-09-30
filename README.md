@@ -200,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Dishika-16/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/Dishika-16/DSA/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
