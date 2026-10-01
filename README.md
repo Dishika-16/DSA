@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Dishika-16/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Dishika-16/DSA/tree/master/0226-invert-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Dishika-16/DSA/tree/master/0437-path-sum-iii) |
+| [0513-find-bottom-left-tree-value](https://github.com/Dishika-16/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Dishika-16/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Dishika-16/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Dishika-16/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Dishika-16/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Dishika-16/DSA/tree/master/0226-invert-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Dishika-16/DSA/tree/master/0437-path-sum-iii) |
+| [0513-find-bottom-left-tree-value](https://github.com/Dishika-16/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Dishika-16/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Dishika-16/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Dishika-16/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Dishika-16/DSA/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Dishika-16/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Dishika-16/DSA/tree/master/0226-invert-binary-tree) |
+| [0513-find-bottom-left-tree-value](https://github.com/Dishika-16/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Dishika-16/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Binary Tree
 |  |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Dishika-16/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Dishika-16/DSA/tree/master/0226-invert-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Dishika-16/DSA/tree/master/0437-path-sum-iii) |
+| [0513-find-bottom-left-tree-value](https://github.com/Dishika-16/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Dishika-16/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Dishika-16/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Dishika-16/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
