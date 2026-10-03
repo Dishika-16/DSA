@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Dishika-16/DSA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Dishika-16/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Dishika-16/DSA/tree/master/0071-simplify-path) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Dishika-16/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Dishika-16/DSA/tree/master/0145-binary-tree-postorder-traversal) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Dishika-16/DSA/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/Dishika-16/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Dishika-16/DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Dishika-16/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Dishika-16/DSA/tree/master/0071-simplify-path) |
 | [0394-decode-string](https://github.com/Dishika-16/DSA/tree/master/0394-decode-string) |
 | [0649-dota2-senate](https://github.com/Dishika-16/DSA/tree/master/0649-dota2-senate) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Dishika-16/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Dishika-16/DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Dishika-16/DSA/tree/master/0032-longest-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Dishika-16/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Dishika-16/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Greedy
@@ -244,4 +247,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Dishika-16/DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Dishika-16/DSA/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
