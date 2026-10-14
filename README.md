@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Dishika-16/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Dishika-16/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Dishika-16/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Dishika-16/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Stack
 |  |
 | ------- |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/Dishika-16/DSA/tree/master/0649-dota2-senate) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Dishika-16/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Dishika-16/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Dishika-16/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## DP on Trees
 |  |
 | ------- |
