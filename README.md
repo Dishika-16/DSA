@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Dishika-16/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0137-single-number-ii](https://github.com/Dishika-16/DSA/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/Dishika-16/DSA/tree/master/0260-single-number-iii) |
+| [0349-intersection-of-two-arrays](https://github.com/Dishika-16/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0456-132-pattern](https://github.com/Dishika-16/DSA/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Dishika-16/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Dishika-16/DSA/tree/master/0503-next-greater-element-ii) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Dishika-16/DSA/tree/master/0012-integer-to-roman) |
+| [0349-intersection-of-two-arrays](https://github.com/Dishika-16/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/Dishika-16/DSA/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Dishika-16/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Dishika-16/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Dishika-16/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Dishika-16/DSA/tree/master/0061-rotate-list) |
+| [0349-intersection-of-two-arrays](https://github.com/Dishika-16/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Dishika-16/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0917-reverse-only-letters](https://github.com/Dishika-16/DSA/tree/master/0917-reverse-only-letters) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Dishika-16/DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Dishika-16/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Dishika-16/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/Dishika-16/DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0349-intersection-of-two-arrays](https://github.com/Dishika-16/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0456-132-pattern](https://github.com/Dishika-16/DSA/tree/master/0456-132-pattern) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Dishika-16/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Ordered Set
@@ -248,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Dishika-16/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Dishika-16/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Dishika-16/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Dishika-16/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
