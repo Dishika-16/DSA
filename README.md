@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/Dishika-16/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Dishika-16/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Dishika-16/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Dishika-16/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Dishika-16/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Stack
 |  |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Dishika-16/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0260-single-number-iii](https://github.com/Dishika-16/DSA/tree/master/0260-single-number-iii) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/Dishika-16/DSA/tree/master/2869-minimum-operations-to-collect-elements) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Dishika-16/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Tree
 |  |
 | ------- |
