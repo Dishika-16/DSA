@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Dishika-16/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/Dishika-16/DSA/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Dishika-16/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Dishika-16/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Dishika-16/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/Dishika-16/DSA/tree/master/2869-minimum-operations-to-collect-elements) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Dishika-16/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Dishika-16/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Dishika-16/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Dishika-16/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Dishika-16/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0872-leaf-similar-trees](https://github.com/Dishika-16/DSA/tree/master/0872-leaf-similar-trees) |
 | [0965-univalued-binary-tree](https://github.com/Dishika-16/DSA/tree/master/0965-univalued-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Dishika-16/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Dishika-16/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Dishika-16/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Dishika-16/DSA/tree/master/0572-subtree-of-another-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Dishika-16/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0872-leaf-similar-trees](https://github.com/Dishika-16/DSA/tree/master/0872-leaf-similar-trees) |
 | [0965-univalued-binary-tree](https://github.com/Dishika-16/DSA/tree/master/0965-univalued-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Dishika-16/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/Dishika-16/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/Dishika-16/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Dishika-16/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Dishika-16/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0965-univalued-binary-tree](https://github.com/Dishika-16/DSA/tree/master/0965-univalued-binary-tree) |
 ## Binary Tree
 |  |
@@ -258,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Dishika-16/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Dishika-16/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Dishika-16/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Dishika-16/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0872-leaf-similar-trees](https://github.com/Dishika-16/DSA/tree/master/0872-leaf-similar-trees) |
 | [0965-univalued-binary-tree](https://github.com/Dishika-16/DSA/tree/master/0965-univalued-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Dishika-16/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
@@ -288,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Dishika-16/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Dishika-16/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## Math
 |  |
 | ------- |
@@ -336,8 +342,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Dishika-16/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Dishika-16/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## Lowest Common Ancestor
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Dishika-16/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Dishika-16/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 <!---LeetCode Topics End-->
