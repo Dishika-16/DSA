@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Dishika-16/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1748-sum-of-unique-elements](https://github.com/Dishika-16/DSA/tree/master/1748-sum-of-unique-elements) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Dishika-16/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2239-find-closest-number-to-zero](https://github.com/Dishika-16/DSA/tree/master/2239-find-closest-number-to-zero) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/Dishika-16/DSA/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2942-find-words-containing-character](https://github.com/Dishika-16/DSA/tree/master/2942-find-words-containing-character) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Dishika-16/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
