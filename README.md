@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Dishika-16/DSA/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/Dishika-16/DSA/tree/master/0260-single-number-iii) |
 | [0349-intersection-of-two-arrays](https://github.com/Dishika-16/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/Dishika-16/DSA/tree/master/0414-third-maximum-number) |
 | [0456-132-pattern](https://github.com/Dishika-16/DSA/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Dishika-16/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Dishika-16/DSA/tree/master/0503-next-greater-element-ii) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Dishika-16/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/Dishika-16/DSA/tree/master/0414-third-maximum-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Dishika-16/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Dishika-16/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Dishika-16/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
