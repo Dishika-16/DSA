@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Dishika-16/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Dishika-16/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0137-single-number-ii](https://github.com/Dishika-16/DSA/tree/master/0137-single-number-ii) |
+| [0164-maximum-gap](https://github.com/Dishika-16/DSA/tree/master/0164-maximum-gap) |
 | [0260-single-number-iii](https://github.com/Dishika-16/DSA/tree/master/0260-single-number-iii) |
 | [0349-intersection-of-two-arrays](https://github.com/Dishika-16/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Dishika-16/DSA/tree/master/0414-third-maximum-number) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/Dishika-16/DSA/tree/master/0164-maximum-gap) |
 | [0349-intersection-of-two-arrays](https://github.com/Dishika-16/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Dishika-16/DSA/tree/master/0414-third-maximum-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Dishika-16/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -420,4 +422,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1748-sum-of-unique-elements](https://github.com/Dishika-16/DSA/tree/master/1748-sum-of-unique-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Dishika-16/DSA/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Dishika-16/DSA/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Dishika-16/DSA/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
