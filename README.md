@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Dishika-16/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Dishika-16/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Dishika-16/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Dishika-16/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Stack
 |  |
 | ------- |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Dishika-16/DSA/tree/master/0258-add-digits) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Dishika-16/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Dishika-16/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Dishika-16/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3908-valid-digit-number](https://github.com/Dishika-16/DSA/tree/master/3908-valid-digit-number) |
 ## Database
 |  |
