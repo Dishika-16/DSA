@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Dishika-16/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Dishika-16/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Dishika-16/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3978-unique-middle-element](https://github.com/Dishika-16/DSA/tree/master/3978-unique-middle-element) |
 ## Stack
 |  |
 | ------- |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1748-sum-of-unique-elements](https://github.com/Dishika-16/DSA/tree/master/1748-sum-of-unique-elements) |
+| [3978-unique-middle-element](https://github.com/Dishika-16/DSA/tree/master/3978-unique-middle-element) |
 ## Bucket Sort
 |  |
 | ------- |
