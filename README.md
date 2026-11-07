@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Dishika-16/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Dishika-16/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1748-sum-of-unique-elements](https://github.com/Dishika-16/DSA/tree/master/1748-sum-of-unique-elements) |
+| [2351-first-letter-to-appear-twice](https://github.com/Dishika-16/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/Dishika-16/DSA/tree/master/2869-minimum-operations-to-collect-elements) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Dishika-16/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Dishika-16/DSA/tree/master/3483-unique-3-digit-even-numbers) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/Dishika-16/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Dishika-16/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1544-make-the-string-great](https://github.com/Dishika-16/DSA/tree/master/1544-make-the-string-great) |
+| [2351-first-letter-to-appear-twice](https://github.com/Dishika-16/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/Dishika-16/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2942-find-words-containing-character](https://github.com/Dishika-16/DSA/tree/master/2942-find-words-containing-character) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Dishika-16/DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Dishika-16/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0260-single-number-iii](https://github.com/Dishika-16/DSA/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Dishika-16/DSA/tree/master/0268-missing-number) |
+| [2351-first-letter-to-appear-twice](https://github.com/Dishika-16/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/Dishika-16/DSA/tree/master/2869-minimum-operations-to-collect-elements) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Dishika-16/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Tree
@@ -456,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Dishika-16/DSA/tree/master/0347-top-k-frequent-elements) |
 | [1748-sum-of-unique-elements](https://github.com/Dishika-16/DSA/tree/master/1748-sum-of-unique-elements) |
+| [2351-first-letter-to-appear-twice](https://github.com/Dishika-16/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [3978-unique-middle-element](https://github.com/Dishika-16/DSA/tree/master/3978-unique-middle-element) |
 ## Bucket Sort
 |  |
