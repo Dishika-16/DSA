@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/Dishika-16/DSA/tree/master/0946-validate-stack-sequences) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Dishika-16/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Dishika-16/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1267-count-servers-that-communicate](https://github.com/Dishika-16/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Dishika-16/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Dishika-16/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1748-sum-of-unique-elements](https://github.com/Dishika-16/DSA/tree/master/1748-sum-of-unique-elements) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-univalued-binary-tree](https://github.com/Dishika-16/DSA/tree/master/0965-univalued-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Dishika-16/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Dishika-16/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1267-count-servers-that-communicate](https://github.com/Dishika-16/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Dishika-16/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Dishika-16/DSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Dishika-16/DSA/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Dishika-16/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Dishika-16/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/Dishika-16/DSA/tree/master/0965-univalued-binary-tree) |
+| [1267-count-servers-that-communicate](https://github.com/Dishika-16/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Dishika-16/DSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Dishika-16/DSA/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Binary Tree
@@ -464,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Dishika-16/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Dishika-16/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [1267-count-servers-that-communicate](https://github.com/Dishika-16/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1748-sum-of-unique-elements](https://github.com/Dishika-16/DSA/tree/master/1748-sum-of-unique-elements) |
 | [2351-first-letter-to-appear-twice](https://github.com/Dishika-16/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [3978-unique-middle-element](https://github.com/Dishika-16/DSA/tree/master/3978-unique-middle-element) |
@@ -494,4 +498,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dishika-16/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Dishika-16/DSA/tree/master/0347-top-k-frequent-elements) |
+## Union-Find
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/Dishika-16/DSA/tree/master/1267-count-servers-that-communicate) |
+## Matrix
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/Dishika-16/DSA/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
