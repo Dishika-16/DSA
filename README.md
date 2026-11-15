@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Dishika-16/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1267-count-servers-that-communicate](https://github.com/Dishika-16/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Dishika-16/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Dishika-16/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Dishika-16/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1748-sum-of-unique-elements](https://github.com/Dishika-16/DSA/tree/master/1748-sum-of-unique-elements) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Dishika-16/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Dishika-16/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Dishika-16/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Dishika-16/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 ## Bit Manipulation
 |  |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Dishika-16/DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Dishika-16/DSA/tree/master/0268-missing-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Dishika-16/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Dishika-16/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Dishika-16/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Dishika-16/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Dishika-16/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -428,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Dishika-16/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Dishika-16/DSA/tree/master/0032-longest-valid-parentheses) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Dishika-16/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## String Matching
 |  |
 | ------- |
