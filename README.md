@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dishika-16/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Dishika-16/DSA/tree/master/0012-integer-to-roman) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Dishika-16/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0242-valid-anagram](https://github.com/Dishika-16/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Dishika-16/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Dishika-16/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Dishika-16/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Dishika-16/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Dishika-16/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Dishika-16/DSA/tree/master/0071-simplify-path) |
+| [0242-valid-anagram](https://github.com/Dishika-16/DSA/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Dishika-16/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/Dishika-16/DSA/tree/master/0394-decode-string) |
 | [0649-dota2-senate](https://github.com/Dishika-16/DSA/tree/master/0649-dota2-senate) |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0164-maximum-gap](https://github.com/Dishika-16/DSA/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dishika-16/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/Dishika-16/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Dishika-16/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Dishika-16/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Dishika-16/DSA/tree/master/0349-intersection-of-two-arrays) |
