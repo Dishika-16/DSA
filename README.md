@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Dishika-16/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/Dishika-16/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/Dishika-16/DSA/tree/master/2390-removing-stars-from-a-string) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Dishika-16/DSA/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [2942-find-words-containing-character](https://github.com/Dishika-16/DSA/tree/master/2942-find-words-containing-character) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Dishika-16/DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Design
